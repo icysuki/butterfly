@@ -8,7 +8,7 @@ public class ButterFlyController {
 
     @GetMapping("/")
     public String butterfly() {
-        return "Hello Butterfly fyp1389!";
+        return "Hello Butterfly!";
     }
 
 }
